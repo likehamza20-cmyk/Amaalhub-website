@@ -314,7 +314,7 @@ a:focus {
 
 .header .content-inner {
     padding: 100px 30px;
-    background: url(../img/Amaal\ profile\ 2.png) right bottom no-repeat;
+    background: url() right bottom no-repeat;
     background-size: contain;
 }
 
@@ -853,7 +853,7 @@ a:focus {
 .review .content-inner {
     position: relative;
     padding: 60px 30px;
-    background: url() right bottom no-repeat;
+    background: url(../img/quote.png) right bottom no-repeat;
 }
 
 .review .review-text p {
